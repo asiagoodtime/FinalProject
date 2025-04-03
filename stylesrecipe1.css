@@ -1,0 +1,18 @@
+*{
+    background-color:rgb(236, 211, 247);
+    color:rgb(98, 75, 67);
+    font-family:monospace
+
+}
+
+h1{
+    color:black;
+    font-family:cursive
+}
+img{
+    background-color:rgb(243, 239, 188);
+    height: 500px;
+}
+h3{
+    background-color:rgb(235, 173, 185);
+}
